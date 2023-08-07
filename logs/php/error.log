@@ -1,0 +1,1 @@
+[12-Jul-2023 12:56:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\leith\Local Sites\shirtstore\app\public\wp-content\plugins\siteorigin-panels\inc\installer\inc\github-plugin-updater.php on line 21
